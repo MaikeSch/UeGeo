@@ -19,8 +19,6 @@ Arbeitspakete des Projektsantrags
 | 1.2 | Webbasierte Umfrage |
 | | |
 | **2** | **_mCloud_-Datenbasis**|
-| 2.1 | Systematischer Überblick |
-| 2.2 | Auswahl von Datensätzen |
 | | |
 | **3** | **Bibliothek Kontrollzonen**|
 | | |
