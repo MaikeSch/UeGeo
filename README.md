@@ -1,8 +1,15 @@
 # UeGeo
 
-Die Struktur orientiert sich an den Arbeitspaketen des Projektsantrags. Ergebnisse können in den entsprechenden Ordnern gefunden werden. 
+Oft können erst durch die Verknüpfung von den unterschiedlichen Datensätzen interessante und räumlich differenzierte Zusammenhänge erkannt und Erkenntnisse gewonnen werden. Bei solchen Überlagerungen tritt allerdings häufig das Problem auf, dass die zugrunde liegenden Daten für unterschiedliche Bezugsgeometrien (z. B.: Landkreisebene vs. PLZ-Bereiche) vorliegen und somit die Zuordnung der jeweiligen Attributwerte nicht ohne weiteres möglich ist.
+Es existiert zwar eine Reihe von Überlagerungs-Algorithmen, es fehlt aber Nutzern eine leicht handhabbare Software, die die notwendigen Methoden kompakt zusammenstellt, sowie an wissenschaftlich fundierten Empfehlungen zur fallspezifischen Methoden-Auswahl.
 
-Bezug auf CoGran https://github.com/berlinermorgenpost/cogran
+Diese Vorstudie erstellt daher ein Detailkonzept für eine Open Source Software-Toolbox zur Überlagerung von BMVI- und anderen Geodaten mit unterschiedlichen Bezugsräumen.
+Damit wird die Erschließung und Nutzbarmachung von bestehenden und zukünftigen BMVI-Daten signifikant verbessert und eine bisher fehlende, praktische Unterstützung zur Verknüpfung und Veredelung von multi-skaligen Daten bereitgestellt.
+
+
+Basierend auf CoGran https://github.com/berlinermorgenpost/cogran
+
+Arbeitspakete des Projektsantrags
 
 | AP | Inhalt |
 | :---| :--- |
